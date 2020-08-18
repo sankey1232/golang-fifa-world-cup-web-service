@@ -34,3 +34,4 @@ To start an interactive shell, run:
 From inside the shell, run the tests with:
 
 `go test handlers/*`
+[![Run on Repl.it](https://repl.it/badge/github/sankey1232/golang-fifa-world-cup-web-service)](https://repl.it/github/sankey1232/golang-fifa-world-cup-web-service)
